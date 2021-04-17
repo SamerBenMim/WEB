@@ -964,10 +964,18 @@ font-size: 17px;
               text-align: center;
               margin: 25px;
             }
-            .end ul li :hover
+            .end ul li  :hover
             {
+              color: #165ba8;
               text-decoration: none;
             }
+            .end ul li span 
+            {              cursor: pointer;
+
+              text-decoration: none;
+            }
+            
+
             .end {
               text-align: center;
               position: absolute;
@@ -977,3 +985,4 @@ font-size: 17px;
               justify-content: center;
 
                }
+              
